@@ -1,5 +1,3 @@
-[XY-Tech BIOS Page](https://www.xyte.ch/support/x330-support/x330-bios/) [archive](https://archive.is/ebXjo)
-
 # VBT Modification
 
 [XY-Tech VBT Information](https://github.com/xy-tech/x330-bios/tree/main/vbt)
