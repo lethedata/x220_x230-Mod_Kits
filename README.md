@@ -2,7 +2,7 @@
 
 There are a multiple Thinkpad X220 and X230 mod kits floating around. This repo attempts to provide some clarity regarding the differences of each.
 
-Information here may be inaccurate as finding informatoin without direct access to the boards is rather 
+Information here may be inaccurate as information comes second hand without direct access to the boards.
 
 ## Known Mod Kits
 
