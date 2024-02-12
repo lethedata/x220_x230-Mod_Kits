@@ -10,7 +10,7 @@ There seems to be three different styles Nitrocaster, eDP only, and a.gain. All 
 
 ### Nitrocaster: LVDS and EDP
 
-Uses LVDS and EDP to control brightness. [VBT modifications](https://review.coreboot.org/c/coreboot/+/28950/22..23//COMMIT_MSG#b18) should not be used. May require an aditional mod to deal with [VCC Power](firmware-VCC_Power.md).
+Uses LVDS and EDP to control brightness. [VBT modifications](firmware-VBT_patch.md) should NOT be used. May require an aditional mod to deal with [VCC Power](firmware-VCC_Power.md).
 
 - [Nitrocaster](images/nitrocaster-nitrocaster.png) : [nitrocaster store](https://nitrocaster.me/store/x220-x230-fhd-mod-kit.html) [(archive)](https://archive.is/TbwNl)
 
@@ -30,4 +30,3 @@ Includes an mSATA+USB3.0 port. Brightness controls implemented via power button 
 - [X220_X230 WQHD RevA1.0](images/a.gain-X220_X230%20WQHD%20RevA1.0.png) :
 - [eDP V3.3 for X220 & X230 - msata3+USB3.0 port](images/a.gain-eDP%20V3.3%20for%20X220%20&%20X230.png) 
 - [K.K-Thinkpad x230 FHD/ WQHD 2K屏改裝/加裝mSATA/USB3.0板](images/K.K-Thinkpad%20x230%20FHD-WQHD%202K.png) : [taobao](https://world.taobao.com/item/557203626813.htm) [(archive)](https://archive.ph/8UMyB)
-
