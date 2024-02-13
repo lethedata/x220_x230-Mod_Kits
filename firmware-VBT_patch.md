@@ -6,4 +6,4 @@ VBT modification removes the LVDS port, moves DP-3 to port 1, and labels DP-3 as
 
 Depending on the mod, this may allow the brightness buttons to work as they are mapped to handling internal screen. The mod must have screen brightness controls that software can interact with to work.
 
-This modifcation seems to be for getting brightness to work with eDP and a.gain mods but not confirmed. The Nitrocaster should **NOT** use this mod as it requires LVDS for brightness functionality.
+This modifcation seems to be for getting brightness to work with eDP and a.gain mods but not confirmed. Nitrocaster should have no issues with this mod.

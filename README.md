@@ -10,7 +10,7 @@ There seems to be three different styles Nitrocaster, eDP only, and a.gain. All 
 
 ### Nitrocaster: LVDS and EDP
 
-Uses LVDS and EDP to control brightness. [VBT modifications](firmware-VBT_patch.md) should NOT be used. May require an aditional mod to deal with [VCC Power](firmware-VCC_Power.md).
+Uses LVDS and EDP to control brightness. May require an aditional mod to deal with [VCC Power](firmware-VCC_Power.md).
 
 - [Nitrocaster](images/nitrocaster-nitrocaster.png) : [nitrocaster store](https://nitrocaster.me/store/x220-x230-fhd-mod-kit.html) [(archive)](https://archive.is/TbwNl)
 
